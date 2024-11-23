@@ -1,0 +1,9 @@
+{
+	"name": "rbeltre619",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0ae035f0-4065-482d-bcba-d4f332a4e503",
+		"tenantId": "3c3d0caf-9220-45ea-86c8-b7394972d021"
+	}
+}
